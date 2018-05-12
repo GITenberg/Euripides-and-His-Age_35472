@@ -1,0 +1,33 @@
+_repo: Euripides-and-His-Age_35472
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murray, Gilbert
+    aliases:
+    - Murray, George Gilbert Aime
+    - Murray, George Gilbert Aimé
+    birthdate: 1866
+    deathdate: 1957
+    gutenberg_agent_id: '1681'
+    url: http://www.gutenberg.org/2009/agents/1681
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Murray
+description: ''
+gutenberg_issued: '2011-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Home University Library of Modern Knowledge, No. 73
+subjects:
+- !lcsh 'Euripides -- Criticism and interpretation'
+- !lcsh 'Mythology, Greek, in literature'
+- !lcsh 'Tragedy'
+- !lcc 'PA'
+title: Euripides and His Age
+url: http://www.gutenberg.org/ebooks/35472
